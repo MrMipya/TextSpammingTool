@@ -10,20 +10,16 @@ TextSpamApp is a simple Java Swing application that allows you to spam text at a
 
 ## Screenshots
 
-Include relevant screenshots or GIFs showcasing the application's interface and usage.
-
-## Prerequisites
-
-- Java Development Kit (JDK) installed on your machine.
-- A Java IDE for development (e.g., Eclipse, IntelliJ IDEA) or a text editor.
+![Screenshot (3)](https://github.com/MrMipya/TextSpammingTool/assets/134919287/2d9a88a5-4b4d-492c-a6b8-f50668fa8f3e)
 
 ## Getting Started
 
-1. Clone or download the repository to your local machine.
-2. Open the project in your Java IDE.
-3. Run the `TextSpamApp` class's `main` method.
+1. Start by downloading the Setup file.
+2. Run the setup and install teh text spamming app.
+3. Input details in the givin fields and start.
 
 ## Usage
+
 
 1. Enter the text you want to spam in the "Text to be spammed" field.
 2. Set the time interval in seconds in the "Time Interval" field.
@@ -33,11 +29,7 @@ Include relevant screenshots or GIFs showcasing the application's interface and 
 ## Built With
 
 - Java Swing - GUI framework for Java applications.
-
-## Acknowledgments
-
-- Background image from Unsplash (example.com).
-- Icon from IconFinder (example.com).
+- Figma      - Designing the GUI
 
 ## License
 
@@ -46,5 +38,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 - Samipya Mainali
-- Website: [www.example.com](http://www.example.com)
-- Email: samipya@example.com
+- Website: [www.example.com](www.samipyamainali.com.np)
