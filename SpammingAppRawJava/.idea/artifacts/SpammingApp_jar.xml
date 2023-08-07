@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpammingApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpammingApp_jar</output-path>
+    <root id="archive" name="SpammingApp.jar">
+      <element id="module-output" name="SpammingApp" />
+    </root>
+  </artifact>
+</component>
