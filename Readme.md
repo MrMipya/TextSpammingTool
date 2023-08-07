@@ -14,9 +14,9 @@ TextSpamApp is a simple Java Swing application that allows you to spam text at a
 
 ## Getting Started
 
-1. Start by downloading the Setup file.
-2. Run the setup and install teh text spamming app.
-3. Input details in the givin fields and start.
+1. Start by downloading the Setup file at [Latest release](https://github.com/MrMipya/TextSpammingTool/releases/tag/v1.0.0-initial-release).
+3. Run the setup and install teh text spamming app.
+4. Input details in the givin fields and start.
 
 ## Usage
 
