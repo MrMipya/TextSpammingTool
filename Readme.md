@@ -38,4 +38,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## Author
 
 - Samipya Mainali
-- Website: [Samipya Mainali](www.samipyamainali.com.np)
+- Website: [Samipya Mainali](https://www.samipyamainali.com.np)
