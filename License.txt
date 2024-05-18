@@ -1,21 +1,31 @@
-MIT License
+Custom License
 
-Copyright (c) 2023 Samipya Mainali
+© 2024 Samipya Mainali
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use
+the Software solely for personal and non-commercial purposes, subject to the
+following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The Software and its components are not to be copied, modified, merged,
+   published, distributed, sublicensed, and/or sold without the prior written
+   permission from the copyright holder.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Any use of the Software that involves illegal, unethical, or malicious 
+   activities is strictly prohibited. Users are solely responsible for ensuring
+   that their use of the Software complies with all applicable laws and
+   regulations.
+
+3. The Software is provided "AS IS", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose, and noninfringement. In no event shall
+   the author or copyright holder be liable for any claim, damages, or other
+   liability, whether in an action of contract, tort, or otherwise, arising
+   from, out of, or in connection with the Software or the use or other 
+   dealings in the Software.
+
+4. Users of the Software are fully responsible for any consequences, legal
+   or otherwise, resulting from their use of the Software. The author or 
+   copyright holder is not liable for any misuse of the Software.
+
+By using the Software, you agree to the terms of this license.
