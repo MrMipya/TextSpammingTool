@@ -31,11 +31,7 @@ TextSpamApp is a simple Java Swing application that allows you to spam text at a
 - Java Swing - GUI framework for Java applications.
 - Figma      - Designing the GUI
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Author
 
 - Samipya Mainali
-- Website: [Samipya Mainali](https://www.samipyamainali.com.np)
+- Website: [Samipya Mainali](https:/mrmipya.github.io/)
